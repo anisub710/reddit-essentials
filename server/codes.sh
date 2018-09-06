@@ -1,4 +1,0 @@
-export CLIENT_ID=aII-LnZjAkBjVQ
-export CLIENT_SECRET=BwVdaeOF2kRZC3RUze1Hjdp9v7k
-export REDDIT_ID=BirdUpBrotendoo
-export REDDIT_PASS=anirudh07101997
